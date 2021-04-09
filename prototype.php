@@ -162,4 +162,4 @@ class SQLBookPrototype extends BookPrototype {
     echo $line_in."<br/>";
   }
 
-?>
+  
